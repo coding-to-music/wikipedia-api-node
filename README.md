@@ -4,8 +4,6 @@
 
 https://github.com/coding-to-music/wikipedia-api-node
 
-https://wikipedia-api-node.vercel.app
-
 by Mustapha Mekhatria / smartvikisogn https://mustaphamekhatria.medium.com/
 
 https://github.com/smartvikisogn
